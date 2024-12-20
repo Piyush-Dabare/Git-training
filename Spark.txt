@@ -2,3 +2,17 @@ Apache Spark is an open-source, distributed computing system designed for big da
 It provides fast, in-memory data processing capabilities, making it ideal for tasks like data mining, 
 machine learning, and real-time streaming. Spark supports multiple programming languages, including Java, Scala, Python, and R. 
 Its ability to handle large datasets across clusters makes it a popular choice for big data applications.
+
+Here are four key use cases of Apache Spark:
+
+Real-Time Data Processing
+Spark Streaming processes real-time data streams, enabling applications like fraud detection, social media sentiment analysis, and live network monitoring.
+
+Machine Learning and AI
+With MLlib, Spark powers machine learning tasks such as recommendation systems, predictive analytics, and natural language processing at scale.
+
+Big Data Analytics
+Spark efficiently analyzes massive datasets, helping organizations perform tasks like customer segmentation, sales forecasting, and market trend analysis.
+
+IoT (Internet of Things) Applications
+Spark processes vast amounts of sensor and device data in real-time, supporting predictive maintenance, smart city initiatives, and connected device ecosystems.
